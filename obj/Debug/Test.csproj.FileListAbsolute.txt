@@ -1,0 +1,11 @@
+\\adminsrv\USRPROGS\pr191srs-24\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+\\adminsrv\USRPROGS\pr191srs-24\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Test.csprojResolveAssemblyReference.cache
+\\adminsrv\USRPROGS\pr191srs-24\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+\\adminsrv\USRPROGS\pr191srs-24\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Test.csproj.GenerateResource.Cache
+\\adminsrv\USRPROGS\pr191srs-24\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+\\adminsrv\USRPROGS\pr191srs-24\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+\\adminsrv\USRPROGS\pr191srs-24\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+\\adminsrv\USRPROGS\pr191srs-24\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+\\adminsrv\USRPROGS\pr191srs-24\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+\\adminsrv\USRPROGS\pr191srs-24\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Autorisation.resources
+\\adminsrv\USRPROGS\pr191srs-24\Рабочий стол\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
